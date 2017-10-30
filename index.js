@@ -271,4 +271,4 @@ function generate() {
 	return (getRandomItem(pre) + getRandomItem(post) + getRandomInt(0, 101))
 }
 
-export default generate
+module.exports = generate

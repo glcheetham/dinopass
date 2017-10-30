@@ -1,6 +1,6 @@
 {
   "name": "dinopass",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Port of dinopass.com, an awesome password generator for kids",
   "main": "index.js",
   "scripts": {

@@ -268,7 +268,7 @@ function getRandomItem(items) {
 }
 
 function generate() {
-	console.log(getRandomItem(pre) + getRandomItem(post) + getRandomInt(0, 101))
+	return (getRandomItem(pre) + getRandomItem(post) + getRandomInt(0, 101))
 }
 
-export default generate()
+export default generate
